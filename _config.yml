@@ -1,0 +1,10 @@
+# 웹사이트 이름
+title: 최다정 포트폴리오
+
+# 웹사이트 주인
+author: dazzling
+
+# 테마
+show_downloads: true
+logo: /assets/img/profile.png
+theme: jekyll-theme-minimal
