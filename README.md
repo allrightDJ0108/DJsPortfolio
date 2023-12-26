@@ -13,17 +13,17 @@
 <br/>
 
 ## 📊 프로젝트 (Project)
-### [ Allways Blog 프로젝트 ](https://github.com/allrightDJ0108/KEA-Blog-Service)
+### [ **Allways Blog 프로젝트** ](https://github.com/allrightDJ0108/KEA-Blog-Service)
 - K대학 개인역량관리시스템의 그룹 멘토링 고도화 프로젝트에 참여
 - 역할 : BackEnd Developer, Monitoring (Elastic)
 - 보유기술 : Java, Python, React, MySql, MongoDB, Kafka, Debezium, Confluent, Spring Boot, Fast API, AWS, Jenkins, Gradle, Docker, JUnit5, Sonarcube, JMeter, Elastic, InteliJ, DBeaver, GItHub, Jira, Slack, Notion
 
-### [ K대학 그룹멘토링 고도화 프로젝트 ]
+### K대학 그룹멘토링 고도화 프로젝트
 - K대학 개인역량관리시스템의 그룹 멘토링 고도화 프로젝트에 참여
 - 역할 : Web Developer
 - 보유기술 : Java, JQuery, Oracle, Spring, Apache, Tomcat, Eclipse, DBeaver, SVN
 
-### [ S대학 SMS 기능 개선 프로젝트 ]
+### S대학 SMS 기능 개선 프로젝트
 - S대학 개인역량관리시스템에서 기존에 사용하던 DB Insert 방식의 SMS 기능을 API 활용한 방식으로 개선하는 프로젝트에 참여
 - 역할 : Web Developer
 - 보유기술 : Java, JQuery, Oracle, Spring, Apache, Tomcat, Eclipse, DBeaver, SVN
