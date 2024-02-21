@@ -72,6 +72,11 @@
 <br/>
 
 ## 📊 자격증 (License)
+### [ SAA - AWS Certified Solutions Architect - Associate  ]
+- 발급기관 : AWS
+- 발급일자 : 2024년 01월
+- 식별번호 : AWS04123722
+
 ### [ SQLD - SQL Developer ]
 - 발급기관 : 한국데이터산업진흥원
 - 발급일자 : 2023년 10월
