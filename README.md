@@ -13,9 +13,26 @@
 <br/>
 
 ## 📊 프로젝트 (Project)
-### [ **Allways Blog 프로젝트** ](https://github.com/allrightDJ0108/KEA-Blog-Service)
-- K대학 개인역량관리시스템의 그룹 멘토링 고도화 프로젝트에 참여
+
+### [ **임직원 전용 쇼핑몰 프로젝트 : DalKom.shop** ](https://github.com/KEA-DoKebi)
+- KEA SW아카데미에서 진행한 기업실무 프로젝트에서 임직원 전용 쇼핑몰인 DalKom.Shop 프로젝트의 PM 및 백앤드 개발자로 참여했다. 그 중 아래 항목을 담당했다.
 - 역할 : BackEnd Developer, Monitoring (Elastic)
+- 개발 :
+  1) 전체적 기능 개발
+  2) 시스템과 Jira 연동
+  3) 관리자 통계 서비스 및 전용 대시보드 개발
+  4) Elasticsearch를 활용한 유사어 검색 개발
+  5) Elastic APM, Kibana, Rules & Alerts를 활용한 모니터링 담당
+- 보유기술 : Java, Python, React, MySql, Spring Boot, Fast API, AWS, Gradle, Docker, JUnit5, Sonarcube, Cypress, K6, Elastic, InteliJ, DBeaver, GItHub, Jira, Slack, Notion
+
+### [ **블로그 프로젝트 : Allways Blog** ](https://github.com/allrightDJ0108/KEA-Blog-Service)
+- KEA SW아카데미에서 진행한 Allways 블로그 프로젝트에서 백앤드 개발자로 참여했다.
+생성형 AI 기술을 활용한 사용자 친화적 블로그를 개발했다. 그 중 아래 항목을 담당했다.
+- 역할 : BackEnd Developer, Monitoring (Elastic)
+- 개발 :
+  1) 전체적 기능 개발
+  2) MongoDB Replica Set 담당
+  3) Elastic APM, Kibana, Rules & Alerts를 활용한 모니터링 담당
 - 보유기술 : Java, Python, React, MySql, MongoDB, Kafka, Debezium, Confluent, Spring Boot, Fast API, AWS, Jenkins, Gradle, Docker, JUnit5, Sonarcube, JMeter, Elastic, InteliJ, DBeaver, GItHub, Jira, Slack, Notion
 
 ### K대학 그룹멘토링 고도화 프로젝트
